@@ -1,5 +1,4 @@
-# DropDownMenu
-DropDown Menu Demo
+# DropDown Menu
 
 Example of how to build a drop down menu programatically using an UITableView.
 
